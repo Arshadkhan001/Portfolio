@@ -114,6 +114,9 @@
         }
 
         /* About Section */
+        .education-container{
+            margin: 0rem 0 0.5rem 0;
+        }
         .education-item {
             margin-bottom: 1rem;
         }
